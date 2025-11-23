@@ -1,4 +1,4 @@
-name,long,lat,general_time,high_time,low_time,admitted_time
+HOSPITAL,LONGITUDE,LATITUDE,WT_FA_E,LS_E_HU_NA,LS_E_LU_NA,LS_E_A
 Toronto General Hospital,-75.0989,44.8255,3.33,4.42,2.9,24.44
 Ottawa Civic Hospital,-79.0541,42.4423,2.72,4.1,2.48,20.12
 Mississauga Trillium Health,-81.467,44.404,0.45,6.05,3.5,18.59
