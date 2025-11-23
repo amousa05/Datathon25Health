@@ -1,0 +1,31 @@
+Id,Hospital Name,Longitude,Latitude,General Waiting Time (hr),High Urgency Waiting Time (hr),Low Urgency Waiting Time (hr),Admittance Waiting Time (hr)
+0,St. Jude's Medical Center,-74.0059,40.7128,0.91,3.77,2.92,24.65
+1,Northwood General,-118.2437,34.0522,3,5.65,0.1,12.56
+2,Central Metro Hospital,-87.6298,41.8781,2.28,5.08,0.64,19.81
+3,Evergreen Health,-71.0589,42.3601,0.49,3.11,2.25,24.79
+4,Coastline Regional,-122.3321,47.6062,1.42,6.4,4.69,17.22
+5,Harmony Clinic,-95.3698,29.7604,1.05,3.61,5,14.28
+6,Summit View,-80.1918,25.7617,3.65,4.41,3.55,15.35
+7,Blue Ridge Care,-84.388,33.749,1.48,5.51,3.52,21.05
+8,Lakeshore Medical,-104.9903,39.7392,3.59,5.48,6.89,19.49
+9,Riverbend Hospital,-77.0369,38.9072,1.1,4.29,4.67,26.69
+10,Willow Creek,-111,32.2226,2.5,5.45,3.39,16.48
+11,Golden Gate Health,-122.4194,37.7749,1.74,3.65,4.54,22.82
+12,Pioneer Medical,-97.7431,30.2672,1.49,5.02,3.79,11.23
+13,Desert Bloom,-112.074,33.4484,0.1,3.86,2.37,10.57
+14,Ocean Breeze Clinic,-82.3248,27.9475,3.23,4.57,4.96,17.97
+15,Mountain Peak Center,-108.2323,44.789,0.82,4.09,2.14,13.56
+16,Crossroads General,-96.797,32.7767,2.82,6.3,0.94,29.83
+17,North Star Health,-83.0458,42.3314,2.39,4.46,1.42,8.77
+18,Harborview Care,-121.895,37.3382,1.15,3.49,1.95,16.29
+19,Royal Oak Medical,-76.6122,39.2904,1.22,4.54,6.13,19.39
+20,Metropolitan South,-79.9959,40.4406,3.28,5.92,2.14,22.31
+21,Trinity Regional,-115.1398,36.1699,3.76,3.69,5.23,21.61
+22,Red Rock Clinic,-119.7711,36.7468,4.21,2.15,5.61,14.88
+23,Sunrise Hospital,-75.1652,39.9526,3.21,4.38,3.39,22.95
+24,Grand River Health,-90.0715,35.1495,3.26,4.29,5.48,10.96
+25,Pacific Crest,-122.675,45.5051,1.09,7.2,3.52,19.44
+26,Heartland Medical,-94.6278,39.0997,2.27,5.67,3.86,31.89
+27,Eastside Center,-81.519,41.0814,0.91,4.29,2.31,18.91
+28,Fidelity General,-89.4012,43.0731,1.87,5.68,4.31,13.88
+29,West Coast Regional,-117.1611,32.7157,1.71,3.68,4.09,18.25
