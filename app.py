@@ -45,7 +45,7 @@ admitted = st.sidebar.checkbox("Admitted", value=False)
 max_wait_time = st.sidebar.slider("Max Wait Time (minutes)", min_value=0, max_value=180, value=0)/60 # in hours
 
 
-st.title("Interactive Health Facilities Map")
+st.title("Ontario Swift ER")
 
 ######## BACK END DATA PROCESSING ########
 # Geocode user address to get lat/long
