@@ -1,127 +1,127 @@
-HOSPITAL,DATE,WT_FA_E,LS_E_LU_NA,PCNT_F_4H_TT,LS_E_HU_NA,PCNT_F_8H_TT,LS_E_A,PCNT_AFE_8H_TT,norm,ENGLISH_NAME,LONGITUDE,LATITUDE,ADDRESS,MATCH_METHOD,MATCH_SCORE
-Southlake Regional Health Centre,SEPTEMBER 2025,0.7,2.3,88,3.9,94,23.7,17.0,SOUTHLAKE REGIONAL HEALTH CENTRE,Southlake Regional Health Centre,-79.4526164,44.0608478,596 Davis Drive,auto,100.0
-South Bruce Grey Health Centre-Durham,SEPTEMBER 2025,0.7,1.3,97,1.6,100,,,SOUTH BRUCE GREY HEALTH CENTRE DURHAM,South Bruce Grey Health Centre - Durham,-80.8284354,44.1796201,320 College Street,auto,100.0
-Mackenzie Health-Richmond Hill Hospital,SEPTEMBER 2025,0.8,1.8,93,3.2,97,23.6,19.0,MACKENZIE HEALTH RICHMOND HILL HOSPITAL,MacKenzie Health -  Richmond Hill,-79.4495482,43.8702905,10 Trench Street,auto,95.0
-William Osler Health System-Etobicoke Site,SEPTEMBER 2025,0.8,3.1,75,4.5,91,26.5,12.0,WILLIAM OSLER HEALTH SYSTEM ETOBICOKE SITE,William Osler Health System - Etobicoke,-79.6009111,43.7304243,101 Humber College Boulevard,auto,95.0
-Mackenzie Health-Jane Street Site,SEPTEMBER 2025,0.9,1.3,100,1.3,100,,,MACKENZIE HEALTH JANE STREET SITE,MacKenzie Health - Cortellucci Vaughan Hospital,-79.5400739,43.8497335,3200 Major Mackenzie Drive,manual,
-Huron Perth Healthcare Alliance-Seaforth,SEPTEMBER 2025,1.0,1.6,98,2.7,96,6.8,76.0,HURON PERTH HEALTHCARE ALLIANCE SEAFORTH,Huron Perth Healthcare Alliance - Seaforth,-81.3857091,43.5516208,24 Centennial Drive,auto,100.0
-South Bruce Grey Health Centre-Chesley,SEPTEMBER 2025,1.0,1.7,98,2.0,99,,,SOUTH BRUCE GREY HEALTH CENTRE CHESLEY,South Bruce Grey Health Centre - Chesley,-81.0941404,44.2989605,39-2nd Street S.E,auto,100.0
-Sensenbrenner Hospital,SEPTEMBER 2025,1.0,2.2,87,2.8,98,6.2,73.0,SENSENBRENNER HOSPITAL,Sensenbrenner Hospital,-82.4290759,49.424885,101 Progress Crescent,auto,100.0
-Brightshores Health System-Lions Head Site,SEPTEMBER 2025,1.0,1.6,96,2.6,97,6.2,83.0,BRIGHTSHORES HEALTH SYSTEM LIONS HEAD SITE,Grey Bruce Health Services - Lion's Head,-81.249043,44.9858492,22 Moore Street,manual,
-Trillium Health Partners-Queensway Hlth,SEPTEMBER 2025,1.0,1.9,95,2.3,100,,,TRILLIUM HEALTH PARTNERS QUEENSWAY HLTH,Trillium Health Partners- Queensway,-79.5613536,43.6096642,150 Sherway Drive,auto,95.0
-William Osler Health System-Peel Memorial,SEPTEMBER 2025,1.0,2.3,86,3.1,98,,,WILLIAM OSLER HEALTH SYSTEM PEEL MEMORIAL,William Osler Health System - Peel Memorial,-79.7512145,43.69093,20 Lynch Street,auto,100.0
-Mackenzie Health-Cortellucci Vaughan Hosp,SEPTEMBER 2025,1.0,2.3,85,3.6,96,25.5,17.0,MACKENZIE HEALTH CORTELLUCCI VAUGHAN HOSP,MacKenzie Health - Cortellucci Vaughan Hospital,-79.5400739,43.8497335,3200 Major Mackenzie Drive,auto,95.34883720930233
-Haldimand War Memorial Hospital,SEPTEMBER 2025,1.1,1.8,92,3.0,96,7.8,58.0,HALDIMAND WAR MEMORIAL HOSPITAL,Haldimand War Memorial Hospital,-79.6242514,42.9059973,206 John Street,auto,100.0
-Huron Perth Healthcare Alliance-Clinton,SEPTEMBER 2025,1.1,1.8,92,2.6,98,6.5,62.0,HURON PERTH HEALTHCARE ALLIANCE CLINTON,Huron Perth Healthcare Alliance - Clinton,-81.5426384,43.6213766,98 Shipley Street,auto,100.0
-Brightshores Health System-Meaford Site,SEPTEMBER 2025,1.1,1.8,94,2.5,97,15.4,48.0,BRIGHTSHORES HEALTH SYSTEM MEAFORD SITE,Grey Bruce Health Services - Meaford,-80.6003543,44.6063101,229 Nelson Street West,manual,
-Scarborough Health Network-Centenary Site,SEPTEMBER 2025,1.1,2.3,88,3.1,100,21.2,23.0,SCARBOROUGH HEALTH NETWORK CENTENARY SITE,Scarborough Health Network - Centenary,-79.2064424,43.7822467,2867 Ellesmere Road,auto,95.0
-William Osler Health System-Civic Site,SEPTEMBER 2025,1.1,3.2,73,4.8,89,27.7,15.0,WILLIAM OSLER HEALTH SYSTEM CIVIC SITE,William Osler Health System - Civic,-79.741134,43.7472471,2100 Bovaird Drive East,auto,95.0
-Scarborough Health Network-Birchmount Site,SEPTEMBER 2025,1.2,2.5,86,3.2,99,17.2,26.0,SCARBOROUGH HEALTH NETWORK BIRCHMOUNT SITE,Scarborough Health Network - Birchmount,-79.3080086,43.8017064,3030 Birchmount Rd.,auto,95.0
-St. Joseph's Health Care System-Hamilton,SEPTEMBER 2025,1.2,3.4,68,4.4,92,16.6,22.0,ST JOSEPH S HEALTH CARE SYSTEM HAMILTON,St. Joseph's Healthcare Hamilton - Charlton Campus,-79.8696436,43.2491548,50 Charlton Avenue East,manual,
-Unity Health Toronto - St. Joseph's,SEPTEMBER 2025,1.2,3.3,75,4.4,90,26.1,13.0,UNITY HEALTH TORONTO ST JOSEPH S,Unity Health Toronto - St. Joseph's,-79.4501117,43.6391787,30 The Queensway,auto,100.0
-Dryden Regional Health Centre,SEPTEMBER 2025,1.2,2.4,85,3.8,92,4.8,90.0,DRYDEN REGIONAL HEALTH CENTRE,Dryden Regional Health Centre,-92.8390059,49.7696922,58 Goodall Street,auto,100.0
-South Bruce Grey Health Centre-Walkerton,SEPTEMBER 2025,1.3,2.2,92,2.8,97,9.3,59.0,SOUTH BRUCE GREY HEALTH CENTRE WALKERTON,South Bruce Grey Health Centre - Walkerton,-81.1532641,44.1226003,21 McGivern St. W.,auto,100.0
-Perth And Smiths Falls District Hospital - Perth Site,SEPTEMBER 2025,1.3,2.6,81,4.2,91,17.3,29.0,PERTH AND SMITHS FALLS DISTRICT HOSPITAL PERTH SITE,Perth and Smiths Falls District Hospital - Smiths Falls,-76.0253205,44.9065675,60 Cornelia Street West,auto,95.0
-Bluewater Health-Charlotte Eleanor Englehart (Petrolia),SEPTEMBER 2025,1.3,2.0,92,2.4,99,4.5,93.0,BLUEWATER HEALTH CHARLOTTE ELEANOR ENGLEHART PETROLIA,Bluewater Health - Petrolia,-82.1479864,42.8783121,450 Blanche Street,manual,
-Niagara Health System-Port Colborne Site,SEPTEMBER 2025,1.4,2.1,94,2.4,100,,,NIAGARA HEALTH SYSTEM PORT COLBORNE SITE,Niagara Health System - Port Colborne,-79.2588978,42.8806353,260 Sugarloaf Street,auto,95.0
-Scarborough Health Network-Scar.Gen.Site,SEPTEMBER 2025,1.4,2.9,79,3.8,99,18.2,20.0,SCARBOROUGH HEALTH NETWORK SCAR GEN SITE,Scarborough Health Network - Scarborough General,-79.2477969,43.755094,3030 Lawrence Ave. E.,manual,
-St. Thomas-Elgin General Hospital,SEPTEMBER 2025,1.4,2.0,93,3.2,98,5.3,88.0,ST THOMAS ELGIN GENERAL HOSPITAL,St Thomas-Elgin General Hospital,-81.1814795,42.7642448,189 Elm Street,auto,100.0
-Brightshores Health System-Markdale Site,SEPTEMBER 2025,1.4,2.1,91,3.1,96,18.4,30.0,BRIGHTSHORES HEALTH SYSTEM MARKDALE SITE,Grey Bruce Health Services - Markdale,-80.650867,44.3176263,55 Isla Street,manual,
-Brightshores Health System-Wiarton Site,SEPTEMBER 2025,1.4,2.5,87,3.3,95,14.7,34.0,BRIGHTSHORES HEALTH SYSTEM WIARTON SITE,Grey Bruce Health Services - Wiarton,-81.1386185,44.7383179,369 Mary Street,manual,
-Strathroy Middlesex General Hospital,SEPTEMBER 2025,1.4,2.5,86,3.4,97,22.1,24.0,STRATHROY MIDDLESEX GENERAL HOSPITAL,Strathroy Middlesex General Hospital,-81.6346784999999,42.9609016,395 Carrie Street,auto,100.0
-Hopital Notre Dame Hospital (Hearst),SEPTEMBER 2025,1.4,2.2,89,2.9,95,7.3,73.0,HOPITAL NOTRE DAME HOSPITAL HEARST,Notre Dame Hospital,-83.6784992,49.6868398,1405 Edward Street,auto,90.0
-Lakeridge Health-Port Perry Site,SEPTEMBER 2025,1.4,2.4,89,3.3,96,10.5,53.0,LAKERIDGE HEALTH PORT PERRY SITE,Lakeridge Health - Port Perry,-78.9537778,44.1046611,451 Paxton St.,auto,95.0
-Niagara Health System-Fort Erie Douglas Site,SEPTEMBER 2025,1.4,2.3,91,2.6,99,,,NIAGARA HEALTH SYSTEM FORT ERIE DOUGLAS SITE,Niagara Health System - Fort Erie (Douglas Memorial),-78.9247098,42.9128542,230 Bertie Street,auto,89.27710843373494
-Quinte Health - Picton,SEPTEMBER 2025,1.5,2.7,79,3.2,96,9.9,63.0,QUINTE HEALTH PICTON,Quinte Health - Picton,-77.1365086,44.0159649,403 Main Street East,auto,100.0
-Huron Perth Healthcare Alliance-St. Marys,SEPTEMBER 2025,1.5,2.2,91,2.9,98,7.7,70.0,HURON PERTH HEALTHCARE ALLIANCE ST MARYS,Huron Perth Healthcare Alliance - St. Marys,-81.1517872,43.2584063,267 Queen Street West,auto,100.0
-Bluewater Health - Sarnia General Site,SEPTEMBER 2025,1.5,2.5,84,3.8,93,11.0,43.0,BLUEWATER HEALTH SARNIA GENERAL SITE,Bluewater Health - Sarnia,-82.3889578,42.977653,89 Norman Street,auto,90.0
-Lakeridge Health-Oshawa Site,SEPTEMBER 2025,1.5,2.5,83,4.1,93,19.9,25.0,LAKERIDGE HEALTH OSHAWA SITE,Lakeridge Health - Oshawa,-78.8688814,43.9060547,1 Hospital Court,auto,95.0
-Renfrew Victoria Hospital,SEPTEMBER 2025,1.5,3.2,73,4.3,92,8.0,77.0,RENFREW VICTORIA HOSPITAL,Renfrew Victoria Hospital,-76.6972937,45.4824839,499 Raglan Street,auto,100.0
-Hanover And District Hospital,SEPTEMBER 2025,1.5,2.5,84,3.1,96,7.2,67.0,HANOVER AND DISTRICT HOSPITAL,Hanover and District Hospital,-81.0282033,44.142019,90-7th Avenue,auto,100.0
-Oak Valley Health-Markham Stouffville Hospital,SEPTEMBER 2025,1.5,2.4,85,3.7,96,17.7,26.0,OAK VALLEY HEALTH MARKHAM STOUFFVILLE HOSPITAL,Oak Valley Health - Markham,-79.2330485,43.8847752,381 Church Street,auto,90.0
-Kingston Health Sciences Centre-Hotel Dieu,SEPTEMBER 2025,1.6,2.8,80,3.3,98,,,KINGSTON HEALTH SCIENCES CENTRE HOTEL DIEU,Kingston Health Sciences Centre - Hotel Dieu,-76.4861426,44.2311039000001,166 Brock Street,auto,100.0
-Timmins and District Hospital,SEPTEMBER 2025,1.6,2.5,86,3.4,97,7.0,75.0,TIMMINS AND DISTRICT HOSPITAL,Timmins and District Hospital,-81.3158803,48.486019,700 Ross Ave. E.,auto,100.0
-Lakeridge Health-Bowmanville Site,SEPTEMBER 2025,1.6,2.5,84,3.3,98,9.6,54.0,LAKERIDGE HEALTH BOWMANVILLE SITE,Lakeridge Health - Bowmanville,-78.6794594,43.908866,"47 Liberty St., S",auto,95.0
-North York General Hospital,SEPTEMBER 2025,1.6,2.9,80,4.3,93,18.9,23.0,NORTH YORK GENERAL HOSPITAL,North York General Hospital - General Site,-79.3642356,43.7695007,4001 Leslie Street,auto,95.0
-"St. Joseph's Health Care, London",SEPTEMBER 2025,1.6,2.4,92,2.9,99,4.1,93.0,ST JOSEPH S HEALTH CARE LONDON,St. Joseph's Health Care London - Parkwood,-81.2272095,42.9585134,550 Wellington Road,auto,95.0
-Hamilton Health Sciences Corp-McMaster,SEPTEMBER 2025,1.6,3.0,78,4.0,96,9.5,50.0,HAMILTON HEALTH SCIENCES CORP MCMASTER,Hamilton Health Sciences - McMaster,-79.9171508,43.2579477,1200 Main St. West,auto,95.0
-Thunder Bay Regional Hlth Sciences Ctr,SEPTEMBER 2025,1.6,2.7,84,4.5,91,16.5,22.0,THUNDER BAY REGIONAL HLTH SCIENCES CTR,Thunder Bay Regional Health Sciences Centre,-89.2676534,48.421772,984 Oliver Road,auto,93.82716049382715
-Trillium Health Partners-Mississauga,SEPTEMBER 2025,1.6,3.3,72,4.9,86,31.9,15.0,TRILLIUM HEALTH PARTNERS MISSISSAUGA,Trillium Health Partners- Mississauga,-79.6096169,43.572239,100 Queensway West,auto,100.0
-Sinai Health System-Mount Sinai Site,SEPTEMBER 2025,1.7,3.5,69,4.6,91,25.5,13.0,SINAI HEALTH SYSTEM MOUNT SINAI SITE,Hennick Bridgepoint Hospital,-79.3897202,43.6576884,14 St. Mathews Road,manual,
-Hospital for Sick Children (The),SEPTEMBER 2025,1.7,3.6,67,5.0,85,8.3,54.0,HOSPITAL FOR SICK CHILDREN THE,The Hospital For Sick Children,-79.3888478,43.6565517,555 University Avenue,auto,95.0
-Woodstock Hospital,SEPTEMBER 2025,1.7,2.7,85,3.6,98,6.5,83.0,WOODSTOCK HOSPITAL,Woodstock General Hospital,-80.7538732,43.1086447,310 Juliana Drive,auto,95.0
-Tillsonburg District Memorial Hospital,SEPTEMBER 2025,1.7,2.7,80,3.6,96,8.8,56.0,TILLSONBURG DISTRICT MEMORIAL HOSPITAL,Tillsonburg District Memorial,-80.7346899,42.8632005,167 Rolph Street,auto,95.0
-South Bruce Grey Health Centre-Kincardine,SEPTEMBER 2025,1.7,2.4,82,3.8,94,9.0,47.0,SOUTH BRUCE GREY HEALTH CENTRE KINCARDINE,South Bruce Grey Health Centre - Kincardine,-81.6271538,44.1879393,43 Queen Street North,auto,100.0
-Hopital Montfort,SEPTEMBER 2025,1.7,7.7,36,10.5,38,13.4,25.0,HOPITAL MONTFORT,Hopital Montfort,-75.6384104,45.4439826,713 chemin Montreal,auto,100.0
-Joseph Brant Hospital,SEPTEMBER 2025,1.7,2.7,84,3.9,97,13.3,41.0,JOSEPH BRANT HOSPITAL,Joseph Brant Hospital,-79.8036654,43.3177253,1230 North Shore Blvd,auto,100.0
-University Health Network-Western Site,SEPTEMBER 2025,1.8,4.2,59,6.5,80,15.6,21.0,UNIVERSITY HEALTH NETWORK WESTERN SITE,University Health Network - Toronto Western,-79.4064038,43.6533449,399 Bathrust Street,auto,88.30985915492957
-Alexandra Hospital,SEPTEMBER 2025,1.8,2.5,83,3.5,94,8.5,67.0,ALEXANDRA HOSPITAL,Alexandra Hospital,-80.874812,43.0319112,29 Noxon Street,auto,100.0
-Quinte Health - Bancroft,SEPTEMBER 2025,1.8,3.3,69,4.7,89,13.1,33.0,QUINTE HEALTH BANCROFT,Quinte Health - North Hastings,-77.8633494,45.0553105,1H Manor Lane,manual,
-Brightshores Health System-Southampton Site,SEPTEMBER 2025,1.8,2.5,82,4.1,91,18.0,46.0,BRIGHTSHORES HEALTH SYSTEM SOUTHAMPTON SITE,Grey Bruce Health Services - Southampton,-81.3658609,44.4933723,340  High Street,manual,
-Headwaters Health Care Centre-Dufferin,SEPTEMBER 2025,1.8,3.0,77,4.4,92,8.3,58.0,HEADWATERS HEALTH CARE CENTRE DUFFERIN,Headwaters Health Care Centre - Dufferin,-80.0723479,43.9208307,100 Rolling Hills Dr,auto,100.0
-Tor. East Hlth Ntwrk-Michael Garron Hosp,SEPTEMBER 2025,1.8,2.8,81,4.5,90,19.0,14.0,TOR EAST HLTH NTWRK MICHAEL GARRON HOSP,Michael Garron Hospital,-79.3261147,43.6895863,825 Coxwell Avenue,auto,85.5
-Glengarry Memorial Hospital,SEPTEMBER 2025,1.8,2.5,81,3.2,95,7.4,65.0,GLENGARRY MEMORIAL HOSPITAL,Glengarry Memorial Hospital,-74.6453063,45.3069911,20260 County Road 43,auto,100.0
-Stevenson Memorial Hospital Alliston,SEPTEMBER 2025,1.8,2.7,83,3.8,95,13.9,34.0,STEVENSON MEMORIAL HOSPITAL ALLISTON,Stevenson Memorial Hospital,-79.8759934,44.1552646,200 Fletcher Crescent,auto,95.0
-Muskoka Algonquin Healthcare-Bracebridge,SEPTEMBER 2025,1.8,2.7,81,4.2,93,11.5,50.0,MUSKOKA ALGONQUIN HEALTHCARE BRACEBRIDGE,Muskoka Algonquin Healthcare - Bracebridge,-79.3140532,45.0463248,75 Ann Street,auto,100.0
-Royal Victoria Regional Health Centre,SEPTEMBER 2025,1.9,2.5,82,4.4,90,14.7,28.0,ROYAL VICTORIA REGIONAL HEALTH CENTRE,Royal Victoria Regional Health Centre,-79.6620378,44.4161743,201 Georgian Dr,auto,100.0
-Groves Memorial Community Hospital,SEPTEMBER 2025,1.9,2.9,78,4.4,91,8.6,58.0,GROVES MEMORIAL COMMUNITY HOSPITAL,Groves Memorial Community Hospital,-80.3942428,43.6961873,131 Frederick Campbell Street,auto,100.0
-Huron Perth Healthcare Alliance-Stratford,SEPTEMBER 2025,1.9,2.9,77,3.9,94,7.8,67.0,HURON PERTH HEALTHCARE ALLIANCE STRATFORD,Huron Perth Healthcare Alliance - Stratford,-80.9954308,43.3687132,46 General Hospital Drive,auto,100.0
-Collingwood General And Marine Hospital,SEPTEMBER 2025,1.9,3.2,68,4.0,94,13.1,44.0,COLLINGWOOD GENERAL AND MARINE HOSPITAL,Collingwood General and Marine Hospital,-80.2027382,44.4980925,459 Hume Street,auto,100.0
-Muskoka Algonquin Healthcare-Huntsville,SEPTEMBER 2025,1.9,2.9,82,4.1,94,15.4,31.0,MUSKOKA ALGONQUIN HEALTHCARE HUNTSVILLE,Muskoka Algonquin Healthcare - Huntsville,-79.204047,45.3389341,100 Frank Miller Drive,auto,100.0
-Campbellford Memorial Hospital,SEPTEMBER 2025,2.0,3.2,72,4.4,91,20.8,17.0,CAMPBELLFORD MEMORIAL HOSPITAL,Campbellford Memorial Hospital,-77.7895592,44.3122724,146 Oliver Road,auto,100.0
-Erie Shores Healthcare,SEPTEMBER 2025,2.0,2.7,77,4.6,89,10.5,46.0,ERIE SHORES HEALTHCARE,Erie Shores HealthCare,-82.6149112,42.049341,194 Talbot St. West,auto,100.0
-West Nipissing General Hospital,SEPTEMBER 2025,2.0,3.3,68,3.9,93,8.9,52.0,WEST NIPISSING GENERAL HOSPITAL,West Nipissing General Hospital,-79.9157058,46.3723876,725 Coursol Road,auto,100.0
-Chatham-Kent Health Alliance-Wallaceburg,SEPTEMBER 2025,2.0,2.8,81,3.4,97,9.4,71.0,CHATHAM KENT HEALTH ALLIANCE WALLACEBURG,Chatham-Kent Health Alliance - Chatham Site,-82.1940095,42.4058679,80 Grand Avenue West,auto,87.21311475409836
-Oak Valley Health-Uxbridge Hospital,SEPTEMBER 2025,2.0,3.2,72,4.2,94,10.2,48.0,OAK VALLEY HEALTH UXBRIDGE HOSPITAL,Oak Valley Health - Uxbridge,-79.1274882,44.1019503,4 Campbell Drive,auto,95.0
-Hamilton Health Sciences Corp-West Lincoln,SEPTEMBER 2025,2.0,3.4,70,5.1,89,25.9,13.0,HAMILTON HEALTH SCIENCES CORP WEST LINCOLN,Hamilton Health Sciences - West Lincoln,-79.5421343,43.1877119,169 Main Street East,auto,95.0
-Lennox and Addington County Gen Hospital,SEPTEMBER 2025,2.1,3.5,66,4.4,93,22.7,15.0,LENNOX AND ADDINGTON COUNTY GEN HOSPITAL,Lennox and Addington County General Hospital,-76.9658867,44.2403605,8 Richmond Park Dr,auto,95.23809523809523
-Orillia Soldiers' Memorial Hospital,SEPTEMBER 2025,2.1,3.3,68,4.2,95,16.0,23.0,ORILLIA SOLDIERS MEMORIAL HOSPITAL,Orillia Soldiers' Memorial Hospital,-79.4248469,44.6046205,170 Colborne Street West,auto,100.0
-Lakeridge Health-Ajax Site,SEPTEMBER 2025,2.1,3.8,62,4.6,92,17.6,20.0,LAKERIDGE HEALTH AJAX SITE,Lakeridge Health - Ajax,-79.01584,43.8378703,580 Harwood Avenue South,auto,95.0
-Norfolk General Hospital,SEPTEMBER 2025,2.1,3.7,63,4.6,91,17.5,27.0,NORFOLK GENERAL HOSPITAL,Norfolk General Hospital,-80.3140808,42.8347696,365 West Street,auto,100.0
-Halton Healthcare Services Corp-Milton,SEPTEMBER 2025,2.1,3.2,74,4.3,94,12.5,40.0,HALTON HEALTHCARE SERVICES CORP MILTON,Halton Healthcare Services - Milton,-79.8698078,43.4978915,7030 Derry Road,auto,95.0
-Lake-of-the-Woods District Hospital,SEPTEMBER 2025,2.1,3.6,64,4.5,90,10.3,50.0,LAKE OF THE WOODS DISTRICT HOSPITAL,Lake-Of-The-Woods District Hospital,-94.499383,49.7668627,21 Sylvan Street,auto,100.0
-Georgian Bay General Hosp-Midland Site,SEPTEMBER 2025,2.1,3.5,68,4.7,92,13.5,39.0,GEORGIAN BAY GENERAL HOSP MIDLAND SITE,Georgian Bay General Hospital - Midland,-79.9116377,44.7418688,1112 St Andrew's Dr,auto,88.66666666666666
-Halton Healthcare Services Corp-Georgetown,SEPTEMBER 2025,2.2,3.1,72,4.0,97,16.8,34.0,HALTON HEALTHCARE SERVICES CORP GEORGETOWN,Halton Healthcare Services - Georgetown,-79.9322145,43.6442232,1 Princess Anne Dr.,auto,95.0
-Humber River Health-Wilson Site,SEPTEMBER 2025,2.2,3.6,66,4.8,90,10.9,27.0,HUMBER RIVER HEALTH WILSON SITE,Humber River Health - Wilson,-79.4904078,43.724768,1235 Wilson Avenue,auto,95.0
-University Health Network-General Site,SEPTEMBER 2025,2.3,4.5,52,6.8,76,17.3,17.0,UNIVERSITY HEALTH NETWORK GENERAL SITE,University Health Network - Toronto General,-79.387061,43.6595697,200 Elizabeth Street,manual,
-Health Sciences North-Laurentian,SEPTEMBER 2025,2.3,3.8,63,5.1,88,17.3,30.0,HEALTH SCIENCES NORTH LAURENTIAN,Health Sciences North - Ramsay Lake Health Centre,-80.9960696,46.4694207,41 Ramsey Lake Road,manual,
-Quinte Health - Trenton,SEPTEMBER 2025,2.3,3.7,63,5.0,88,18.6,37.0,QUINTE HEALTH TRENTON,Quinte Health - Trenton,-77.5878346,44.0989877,242 King St,auto,100.0
-Ross Memorial Hospital,SEPTEMBER 2025,2.3,3.4,68,4.2,94,17.1,26.0,ROSS MEMORIAL HOSPITAL,Ross Memorial Hospital,-78.751566,44.3522897,10 Angeline Street North,auto,100.0
-St. Mary's General Hospital,SEPTEMBER 2025,2.3,3.3,71,4.4,93,12.4,43.0,ST MARY S GENERAL HOSPITAL,St. Mary's General Hospital,-80.5004443,43.4381679,911 Queen's Boulevard,auto,100.0
-Temiskaming Hospital,SEPTEMBER 2025,2.3,3.6,64,4.6,89,6.1,78.0,TEMISKAMING HOSPITAL,Temiskaming Hospital,-79.6956193,47.4943251,421 Shepherdson Road,auto,100.0
-Perth & Smiths Falls Dist-Smiths Falls Site,SEPTEMBER 2025,2.3,3.6,64,4.6,89,6.1,78.0,PERTH SMITHS FALLS DIST SMITHS FALLS SITE,Perth and Smiths Falls District Hospital - Smiths Falls,-76.0253205,44.9065675,60 Cornelia Street West,manual,
-Brightshores Health System-Owen Sound,SEPTEMBER 2025,2.4,3.1,72,4.5,90,17.7,41.0,BRIGHTSHORES HEALTH SYSTEM OWEN SOUND,Grey Bruce Health Services - Owen Sound,-80.912378,44.5674432,1800 8th Street East,manual,
-Hamilton Health Sciences Corp-General,SEPTEMBER 2025,2.4,4.8,47,6.6,73,18.7,19.0,HAMILTON HEALTH SCIENCES CORP GENERAL,Hamilton Health Sciences - General,-79.85433,43.261289,237 Barton St. East,auto,95.0
-Chatham-Kent Health Alliance-Chatham,SEPTEMBER 2025,2.4,3.2,70,4.6,88,12.6,40.0,CHATHAM KENT HEALTH ALLIANCE CHATHAM,Chatham-Kent Health Alliance - Sydenham Site,-82.3668916,42.5973703,325 Margaret Avenue,auto,95.0
-London Hlth Sciences Ctr-Victoria Hosp,SEPTEMBER 2025,2.4,3.6,67,5.0,84,12.5,38.0,LONDON HLTH SCIENCES CTR VICTORIA HOSP,London Health Sciences Centre - Victoria,-81.2255511,42.9583272,800 Commissioners Road East,auto,86.8421052631579
-Hawkesbury And District General Hospital,SEPTEMBER 2025,2.4,4.6,51,6.5,74,17.7,21.0,HAWKESBURY AND DISTRICT GENERAL HOSPITAL,Hawkesbury And District General Hospital,-74.6079169,45.5987468,"1111, rue Ghislain",auto,100.0
-Hamilton Health Sciences Corp-Juravinski,SEPTEMBER 2025,2.4,4.6,51,6.4,77,22.7,13.0,HAMILTON HEALTH SCIENCES CORP JURAVINSKI,Hamilton Health Sciences - Juravinski,-79.8453502,43.2392986,711 Concession St.,auto,95.0
-Niagara Health System-Welland County,SEPTEMBER 2025,2.5,4.1,55,5.7,84,45.4,9.0,NIAGARA HEALTH SYSTEM WELLAND COUNTY,Niagara Health System - Welland Hospital,-79.249118,42.9807449,65 Third Street,auto,86.48648648648648
-Unity Health Toronto-St. Michael's,SEPTEMBER 2025,2.5,3.7,63,5.7,81,21.5,19.0,UNITY HEALTH TORONTO ST MICHAEL S,Unity Health Toronto - St. Michael's,-79.3773005,43.6537089,30 Bond Street,auto,100.0
-Guelph General Hospital,SEPTEMBER 2025,2.5,3.3,70,4.3,92,14.4,33.0,GUELPH GENERAL HOSPITAL,Guelph General Hospital,-80.2538108,43.5558011,115 Delhi Street,auto,100.0
-Northumberland Hills Hospital,SEPTEMBER 2025,2.5,3.0,71,4.5,93,15.3,26.0,NORTHUMBERLAND HILLS HOSPITAL,Northumberland Hills Hospital,-78.1972016,43.976727,1000 DePalma Drive,auto,100.0
-Pembroke Regional Hospital Inc.,SEPTEMBER 2025,2.6,3.9,66,5.8,82,12.6,38.0,PEMBROKE REGIONAL HOSPITAL INC,Pembroke Regional  Hospital,-77.1080419,45.8138898,705 MacKay St,auto,95.0
-Halton Healthcare Services Corp-Oakville,SEPTEMBER 2025,2.6,3.7,64,4.9,89,17.3,30.0,HALTON HEALTHCARE SERVICES CORP OAKVILLE,Halton Healthcare Services - Oakville Trafalgar Memorial,-79.7665903,43.4489087,3001 Hospital Gate,auto,88.66666666666666
-West Parry Sound Health Centre,SEPTEMBER 2025,2.6,3.8,57,5.1,90,12.8,42.0,WEST PARRY SOUND HEALTH CENTRE,West Parry Sound Health Centre,-80.0191169,45.3421613,6 Albert St,auto,100.0
-Trillium Health Partners-Credit Valley,SEPTEMBER 2025,2.6,3.8,65,5.6,81,32.9,12.0,TRILLIUM HEALTH PARTNERS CREDIT VALLEY,Trillium Health Partners - Credit Valley,-79.7047351,43.5606345,2200 Eglinton Avenue West,auto,100.0
-Niagara Health System-Greater Niagara,SEPTEMBER 2025,2.7,4.6,46,5.5,85,37.0,14.0,NIAGARA HEALTH SYSTEM GREATER NIAGARA,Niagara Health System - Greater Niagara,-79.0917911,43.0935696,5546 Portage Road,auto,100.0
-Ottawa Hospital (The)-Civic Site,SEPTEMBER 2025,2.7,4.9,55,7.7,58,20.8,21.0,OTTAWA HOSPITAL THE CIVIC SITE,The Ottawa Hospital - Civic Campus,-75.7208471,45.3918764,1053 Carling Ave.,auto,86.36363636363636
-Grand River Hospital Corp-Waterloo Site,SEPTEMBER 2025,2.8,3.6,68,5.1,86,16.3,39.0,GRAND RIVER HOSPITAL CORP WATERLOO SITE,Grand River Hospital - Kitchener-Waterloo,-80.5115561,43.4571256,835 King St. West,manual,
-Cornwall Community Hospital,SEPTEMBER 2025,2.8,4.6,52,5.2,83,7.3,67.0,CORNWALL COMMUNITY HOSPITAL,Cornwall Community Hospital,-74.7186113,45.0290125,840 McConnell Avenue,auto,100.0
-Kingston Health Sciences Centre-Kingston General,SEPTEMBER 2025,2.9,5.7,33,6.9,72,16.1,26.0,KINGSTON HEALTH SCIENCES CENTRE KINGSTON GENERAL,Kingston Health Sciences Centre - Kingston General,-76.4928644,44.2245348,76 Stuart Street,auto,100.0
-North Bay Regional Health Centre,SEPTEMBER 2025,3.0,4.6,53,5.3,83,10.9,54.0,NORTH BAY REGIONAL HEALTH CENTRE,North Bay Regional Health Centre,-79.4937436,46.3356353,50 College Drive,auto,100.0
-Brockville General Hospital,SEPTEMBER 2025,3.1,4.8,47,5.8,81,16.0,24.0,BROCKVILLE GENERAL HOSPITAL,Brockville General Hospital,-75.6820896,44.5978527,75 Charles Street,auto,100.0
-Brant Community Healthcare Sys-Brantford,SEPTEMBER 2025,3.1,4.0,61,5.5,82,18.0,23.0,BRANT COMMUNITY HEALTHCARE SYS BRANTFORD,Brant Community Healthcare - Brantford General,-80.2758032,43.1526013,200 Terrace Hill Street,auto,89.99999999999999
-Windsor Regional Hospital - Ouellette Campus,SEPTEMBER 2025,3.1,4.9,48,6.3,75,15.7,26.0,WINDSOR REGIONAL HOSPITAL OUELLETTE CAMPUS,Windsor Regional Hospital - Ouellette Campus,-83.0326985,42.3077897,1030 Ouellette Avenue,auto,100.0
-Peterborough Regional Health Centre,SEPTEMBER 2025,3.2,4.1,56,5.2,85,25.5,20.0,PETERBOROUGH REGIONAL HEALTH CENTRE,Peterborough Regional Health Centre,-78.3459236,44.3008947,1 Hospital Drive,auto,100.0
-Sault Area Hospital-Sault Ste. Marie,SEPTEMBER 2025,3.3,4.6,52,6.3,76,26.4,21.0,SAULT AREA HOSPITAL SAULT STE MARIE,Sault Area Hospital - General Site,-84.3193399,46.5480473,750 Great Northern Road,manual,
-Winchester District Memorial Hospital,SEPTEMBER 2025,3.3,4.6,49,5.6,81,10.2,47.0,WINCHESTER DISTRICT MEMORIAL HOSPITAL,Winchester District Memorial Hospital,-75.3523926,45.0884434,566 Louise Street,auto,100.0
-Niagara Health System-St Catharines Gen,SEPTEMBER 2025,3.4,3.4,71,6.0,76,22.9,14.0,NIAGARA HEALTH SYSTEM ST CATHARINES GEN,Niagara Health System - St. Catharines,-79.2772566,43.155225,1200 Fourth Avenue,auto,95.0
-Ottawa Hospital (The)-General Site,SEPTEMBER 2025,3.4,5.3,45,9.0,45,23.7,15.0,OTTAWA HOSPITAL THE GENERAL SITE,The Ottawa Hospital - General Campus,-75.6473696,45.3994092,501 Smyth Rd,auto,86.94915254237289
-Sunnybrook Health Sciences Centre,SEPTEMBER 2025,3.4,4.7,50,7.3,66,21.9,20.0,SUNNYBROOK HEALTH SCIENCES CENTRE,Sunnybrook Health Sciences Centre - St. John's Rehab,-79.4047514,43.7897344,285 Cummer Avenue,auto,95.0
-Queensway-Carleton Hospital,SEPTEMBER 2025,3.5,5.7,38,6.5,70,20.6,14.0,QUEENSWAY CARLETON HOSPITAL,Queensway-Carleton Hospital,-75.8047465,45.333886,3045 Baseline Road,auto,100.0
-Children's Hospital Of Eastern Ontario,SEPTEMBER 2025,3.5,5.5,40,5.6,82,13.5,32.0,CHILDREN S HOSPITAL OF EASTERN ONTARIO,Children's Hospital Of Eastern Ontario,-75.6527545,45.3990371,401 Smyth Road,auto,100.0
-Cambridge Memorial Hospital,SEPTEMBER 2025,3.7,4.8,47,6.1,75,29.7,20.0,CAMBRIDGE MEMORIAL HOSPITAL,Cambridge Memorial Hospital,-80.3280023,43.3787964,700 Coronation Blvd,auto,100.0
-London Hlth Sciences Ctr-University Hosp,SEPTEMBER 2025,3.8,6.1,37,6.7,69,16.4,23.0,LONDON HLTH SCIENCES CTR UNIVERSITY HOSP,London Health Sciences Centre - University,-81.275328,43.0153339,339 Windermere Road,auto,87.5
-Windsor Regional Hospital-Metropolitan Campus,SEPTEMBER 2025,3.9,5.8,41,6.8,67,18.5,18.0,WINDSOR REGIONAL HOSPITAL METROPOLITAN CAMPUS,Windsor Regional Hospital - Metropolitan,-82.9965746,42.300936,1995 Lens Ave,auto,95.0
-Quinte Health - Belleville,SEPTEMBER 2025,4.0,5.8,33,7.3,65,16.6,30.0,QUINTE HEALTH BELLEVILLE,Quinte Health - Belleville,-77.364903,44.1636952,265 Dundas Street East,auto,100.0
+HOSPITAL,DATE,WT_FA_E,LS_E_LU_NA,PCNT_F_4H_TT,LS_E_HU_NA,PCNT_F_8H_TT,LS_E_A,PCNT_AFE_8H_TT,norm,LONGITUDE,LATITUDE,ADDRESS,MATCH_METHOD,MATCH_SCORE
+Southlake Regional Health Centre,SEPTEMBER 2025,0.7,2.3,88,3.9,94,23.7,17.0,SOUTHLAKE REGIONAL HEALTH CENTRE,-79.4526164,44.0608478,596 Davis Drive,auto,100.0
+South Bruce Grey Health Centre-Durham,SEPTEMBER 2025,0.7,1.3,97,1.6,100,,,SOUTH BRUCE GREY HEALTH CENTRE DURHAM,-80.8284354,44.1796201,320 College Street,auto,100.0
+Mackenzie Health-Richmond Hill Hospital,SEPTEMBER 2025,0.8,1.8,93,3.2,97,23.6,19.0,MACKENZIE HEALTH RICHMOND HILL HOSPITAL,-79.4495482,43.8702905,10 Trench Street,auto,95.0
+William Osler Health System-Etobicoke Site,SEPTEMBER 2025,0.8,3.1,75,4.5,91,26.5,12.0,WILLIAM OSLER HEALTH SYSTEM ETOBICOKE SITE,-79.6009111,43.7304243,101 Humber College Boulevard,auto,95.0
+Mackenzie Health-Jane Street Site,SEPTEMBER 2025,0.9,1.3,100,1.3,100,,,MACKENZIE HEALTH JANE STREET SITE,-79.5400739,43.8497335,3200 Major Mackenzie Drive,manual,
+Huron Perth Healthcare Alliance-Seaforth,SEPTEMBER 2025,1.0,1.6,98,2.7,96,6.8,76.0,HURON PERTH HEALTHCARE ALLIANCE SEAFORTH,-81.3857091,43.5516208,24 Centennial Drive,auto,100.0
+South Bruce Grey Health Centre-Chesley,SEPTEMBER 2025,1.0,1.7,98,2.0,99,,,SOUTH BRUCE GREY HEALTH CENTRE CHESLEY,-81.0941404,44.2989605,39-2nd Street S.E,auto,100.0
+Sensenbrenner Hospital,SEPTEMBER 2025,1.0,2.2,87,2.8,98,6.2,73.0,SENSENBRENNER HOSPITAL,-82.4290759,49.424885,101 Progress Crescent,auto,100.0
+Brightshores Health System-Lions Head Site,SEPTEMBER 2025,1.0,1.6,96,2.6,97,6.2,83.0,BRIGHTSHORES HEALTH SYSTEM LIONS HEAD SITE,-81.249043,44.9858492,22 Moore Street,manual,
+Trillium Health Partners-Queensway Hlth,SEPTEMBER 2025,1.0,1.9,95,2.3,100,,,TRILLIUM HEALTH PARTNERS QUEENSWAY HLTH,-79.5613536,43.6096642,150 Sherway Drive,auto,95.0
+William Osler Health System-Peel Memorial,SEPTEMBER 2025,1.0,2.3,86,3.1,98,,,WILLIAM OSLER HEALTH SYSTEM PEEL MEMORIAL,-79.7512145,43.69093,20 Lynch Street,auto,100.0
+Mackenzie Health-Cortellucci Vaughan Hosp,SEPTEMBER 2025,1.0,2.3,85,3.6,96,25.5,17.0,MACKENZIE HEALTH CORTELLUCCI VAUGHAN HOSP,-79.5400739,43.8497335,3200 Major Mackenzie Drive,auto,95.34883720930232
+Haldimand War Memorial Hospital,SEPTEMBER 2025,1.1,1.8,92,3.0,96,7.8,58.0,HALDIMAND WAR MEMORIAL HOSPITAL,-79.6242514,42.9059973,206 John Street,auto,100.0
+Huron Perth Healthcare Alliance-Clinton,SEPTEMBER 2025,1.1,1.8,92,2.6,98,6.5,62.0,HURON PERTH HEALTHCARE ALLIANCE CLINTON,-81.5426384,43.6213766,98 Shipley Street,auto,100.0
+Brightshores Health System-Meaford Site,SEPTEMBER 2025,1.1,1.8,94,2.5,97,15.4,48.0,BRIGHTSHORES HEALTH SYSTEM MEAFORD SITE,-80.6003543,44.6063101,229 Nelson Street West,manual,
+Scarborough Health Network-Centenary Site,SEPTEMBER 2025,1.1,2.3,88,3.1,100,21.2,23.0,SCARBOROUGH HEALTH NETWORK CENTENARY SITE,-79.2064424,43.7822467,2867 Ellesmere Road,auto,95.0
+William Osler Health System-Civic Site,SEPTEMBER 2025,1.1,3.2,73,4.8,89,27.7,15.0,WILLIAM OSLER HEALTH SYSTEM CIVIC SITE,-79.741134,43.7472471,2100 Bovaird Drive East,auto,95.0
+Scarborough Health Network-Birchmount Site,SEPTEMBER 2025,1.2,2.5,86,3.2,99,17.2,26.0,SCARBOROUGH HEALTH NETWORK BIRCHMOUNT SITE,-79.3080086,43.8017064,3030 Birchmount Rd.,auto,95.0
+St. Joseph's Health Care System-Hamilton,SEPTEMBER 2025,1.2,3.4,68,4.4,92,16.6,22.0,ST JOSEPH S HEALTH CARE SYSTEM HAMILTON,-79.8696436,43.2491548,50 Charlton Avenue East,manual,
+Unity Health Toronto - St. Joseph's,SEPTEMBER 2025,1.2,3.3,75,4.4,90,26.1,13.0,UNITY HEALTH TORONTO ST JOSEPH S,-79.4501117,43.6391787,30 The Queensway,auto,100.0
+Dryden Regional Health Centre,SEPTEMBER 2025,1.2,2.4,85,3.8,92,4.8,90.0,DRYDEN REGIONAL HEALTH CENTRE,-92.8390059,49.7696922,58 Goodall Street,auto,100.0
+South Bruce Grey Health Centre-Walkerton,SEPTEMBER 2025,1.3,2.2,92,2.8,97,9.3,59.0,SOUTH BRUCE GREY HEALTH CENTRE WALKERTON,-81.1532641,44.1226003,21 McGivern St. W.,auto,100.0
+Perth And Smiths Falls District Hospital - Perth Site,SEPTEMBER 2025,1.3,2.6,81,4.2,91,17.3,29.0,PERTH AND SMITHS FALLS DISTRICT HOSPITAL PERTH SITE,-76.0253205,44.9065675,60 Cornelia Street West,auto,95.0
+Bluewater Health-Charlotte Eleanor Englehart (Petrolia),SEPTEMBER 2025,1.3,2.0,92,2.4,99,4.5,93.0,BLUEWATER HEALTH CHARLOTTE ELEANOR ENGLEHART PETROLIA,-82.1479864,42.8783121,450 Blanche Street,manual,
+Niagara Health System-Port Colborne Site,SEPTEMBER 2025,1.4,2.1,94,2.4,100,,,NIAGARA HEALTH SYSTEM PORT COLBORNE SITE,-79.2588978,42.8806353,260 Sugarloaf Street,auto,95.0
+Scarborough Health Network-Scar.Gen.Site,SEPTEMBER 2025,1.4,2.9,79,3.8,99,18.2,20.0,SCARBOROUGH HEALTH NETWORK SCAR GEN SITE,-79.2477969,43.755094,3030 Lawrence Ave. E.,manual,
+St. Thomas-Elgin General Hospital,SEPTEMBER 2025,1.4,2.0,93,3.2,98,5.3,88.0,ST THOMAS ELGIN GENERAL HOSPITAL,-81.1814795,42.7642448,189 Elm Street,auto,100.0
+Brightshores Health System-Markdale Site,SEPTEMBER 2025,1.4,2.1,91,3.1,96,18.4,30.0,BRIGHTSHORES HEALTH SYSTEM MARKDALE SITE,-80.650867,44.3176263,55 Isla Street,manual,
+Brightshores Health System-Wiarton Site,SEPTEMBER 2025,1.4,2.5,87,3.3,95,14.7,34.0,BRIGHTSHORES HEALTH SYSTEM WIARTON SITE,-81.1386185,44.7383179,369 Mary Street,manual,
+Strathroy Middlesex General Hospital,SEPTEMBER 2025,1.4,2.5,86,3.4,97,22.1,24.0,STRATHROY MIDDLESEX GENERAL HOSPITAL,-81.6346784999999,42.9609016,395 Carrie Street,auto,100.0
+Hopital Notre Dame Hospital (Hearst),SEPTEMBER 2025,1.4,2.2,89,2.9,95,7.3,73.0,HOPITAL NOTRE DAME HOSPITAL HEARST,-83.6784992,49.6868398,1405 Edward Street,auto,90.0
+Lakeridge Health-Port Perry Site,SEPTEMBER 2025,1.4,2.4,89,3.3,96,10.5,53.0,LAKERIDGE HEALTH PORT PERRY SITE,-78.9537778,44.1046611,451 Paxton St.,auto,95.0
+Niagara Health System-Fort Erie Douglas Site,SEPTEMBER 2025,1.4,2.3,91,2.6,99,,,NIAGARA HEALTH SYSTEM FORT ERIE DOUGLAS SITE,-78.9247098,42.9128542,230 Bertie Street,auto,89.27710843373494
+Quinte Health - Picton,SEPTEMBER 2025,1.5,2.7,79,3.2,96,9.9,63.0,QUINTE HEALTH PICTON,-77.1365086,44.0159649,403 Main Street East,auto,100.0
+Huron Perth Healthcare Alliance-St. Marys,SEPTEMBER 2025,1.5,2.2,91,2.9,98,7.7,70.0,HURON PERTH HEALTHCARE ALLIANCE ST MARYS,-81.1517872,43.2584063,267 Queen Street West,auto,100.0
+Bluewater Health - Sarnia General Site,SEPTEMBER 2025,1.5,2.5,84,3.8,93,11.0,43.0,BLUEWATER HEALTH SARNIA GENERAL SITE,-82.3889578,42.977653,89 Norman Street,auto,90.0
+Lakeridge Health-Oshawa Site,SEPTEMBER 2025,1.5,2.5,83,4.1,93,19.9,25.0,LAKERIDGE HEALTH OSHAWA SITE,-78.8688814,43.9060547,1 Hospital Court,auto,95.0
+Renfrew Victoria Hospital,SEPTEMBER 2025,1.5,3.2,73,4.3,92,8.0,77.0,RENFREW VICTORIA HOSPITAL,-76.6972937,45.4824839,499 Raglan Street,auto,100.0
+Hanover And District Hospital,SEPTEMBER 2025,1.5,2.5,84,3.1,96,7.2,67.0,HANOVER AND DISTRICT HOSPITAL,-81.0282033,44.142019,90-7th Avenue,auto,100.0
+Oak Valley Health-Markham Stouffville Hospital,SEPTEMBER 2025,1.5,2.4,85,3.7,96,17.7,26.0,OAK VALLEY HEALTH MARKHAM STOUFFVILLE HOSPITAL,-79.2330485,43.8847752,381 Church Street,auto,90.0
+Kingston Health Sciences Centre-Hotel Dieu,SEPTEMBER 2025,1.6,2.8,80,3.3,98,,,KINGSTON HEALTH SCIENCES CENTRE HOTEL DIEU,-76.4861426,44.2311039000001,166 Brock Street,auto,100.0
+Timmins and District Hospital,SEPTEMBER 2025,1.6,2.5,86,3.4,97,7.0,75.0,TIMMINS AND DISTRICT HOSPITAL,-81.3158803,48.486019,700 Ross Ave. E.,auto,100.0
+Lakeridge Health-Bowmanville Site,SEPTEMBER 2025,1.6,2.5,84,3.3,98,9.6,54.0,LAKERIDGE HEALTH BOWMANVILLE SITE,-78.6794594,43.908866,"47 Liberty St., S",auto,95.0
+North York General Hospital,SEPTEMBER 2025,1.6,2.9,80,4.3,93,18.9,23.0,NORTH YORK GENERAL HOSPITAL,-79.3642356,43.7695007,4001 Leslie Street,auto,95.0
+"St. Joseph's Health Care, London",SEPTEMBER 2025,1.6,2.4,92,2.9,99,4.1,93.0,ST JOSEPH S HEALTH CARE LONDON,-81.2272095,42.9585134,550 Wellington Road,auto,95.0
+Hamilton Health Sciences Corp-McMaster,SEPTEMBER 2025,1.6,3.0,78,4.0,96,9.5,50.0,HAMILTON HEALTH SCIENCES CORP MCMASTER,-79.9171508,43.2579477,1200 Main St. West,auto,95.0
+Thunder Bay Regional Hlth Sciences Ctr,SEPTEMBER 2025,1.6,2.7,84,4.5,91,16.5,22.0,THUNDER BAY REGIONAL HLTH SCIENCES CTR,-89.2676534,48.421772,984 Oliver Road,auto,93.82716049382717
+Trillium Health Partners-Mississauga,SEPTEMBER 2025,1.6,3.3,72,4.9,86,31.9,15.0,TRILLIUM HEALTH PARTNERS MISSISSAUGA,-79.6096169,43.572239,100 Queensway West,auto,100.0
+Sinai Health System-Mount Sinai Site,SEPTEMBER 2025,1.7,3.5,69,4.6,91,25.5,13.0,SINAI HEALTH SYSTEM MOUNT SINAI SITE,-79.3897202,43.6576884,14 St. Mathews Road,manual,
+Hospital for Sick Children (The),SEPTEMBER 2025,1.7,3.6,67,5.0,85,8.3,54.0,HOSPITAL FOR SICK CHILDREN THE,-79.3888478,43.6565517,555 University Avenue,auto,95.0
+Woodstock Hospital,SEPTEMBER 2025,1.7,2.7,85,3.6,98,6.5,83.0,WOODSTOCK HOSPITAL,-80.7538732,43.1086447,310 Juliana Drive,auto,95.0
+Tillsonburg District Memorial Hospital,SEPTEMBER 2025,1.7,2.7,80,3.6,96,8.8,56.0,TILLSONBURG DISTRICT MEMORIAL HOSPITAL,-80.7346899,42.8632005,167 Rolph Street,auto,95.0
+South Bruce Grey Health Centre-Kincardine,SEPTEMBER 2025,1.7,2.4,82,3.8,94,9.0,47.0,SOUTH BRUCE GREY HEALTH CENTRE KINCARDINE,-81.6271538,44.1879393,43 Queen Street North,auto,100.0
+Hopital Montfort,SEPTEMBER 2025,1.7,7.7,36,10.5,38,13.4,25.0,HOPITAL MONTFORT,-75.6384104,45.4439826,713 chemin Montreal,auto,100.0
+Joseph Brant Hospital,SEPTEMBER 2025,1.7,2.7,84,3.9,97,13.3,41.0,JOSEPH BRANT HOSPITAL,-79.8036654,43.3177253,1230 North Shore Blvd,auto,100.0
+University Health Network-Western Site,SEPTEMBER 2025,1.8,4.2,59,6.5,80,15.6,21.0,UNIVERSITY HEALTH NETWORK WESTERN SITE,-79.4064038,43.6533449,399 Bathrust Street,auto,88.30985915492957
+Alexandra Hospital,SEPTEMBER 2025,1.8,2.5,83,3.5,94,8.5,67.0,ALEXANDRA HOSPITAL,-80.874812,43.0319112,29 Noxon Street,auto,100.0
+Quinte Health - Bancroft,SEPTEMBER 2025,1.8,3.3,69,4.7,89,13.1,33.0,QUINTE HEALTH BANCROFT,-77.8633494,45.0553105,1H Manor Lane,manual,
+Brightshores Health System-Southampton Site,SEPTEMBER 2025,1.8,2.5,82,4.1,91,18.0,46.0,BRIGHTSHORES HEALTH SYSTEM SOUTHAMPTON SITE,-81.3658609,44.4933723,340  High Street,manual,
+Headwaters Health Care Centre-Dufferin,SEPTEMBER 2025,1.8,3.0,77,4.4,92,8.3,58.0,HEADWATERS HEALTH CARE CENTRE DUFFERIN,-80.0723479,43.9208307,100 Rolling Hills Dr,auto,100.0
+Tor. East Hlth Ntwrk-Michael Garron Hosp,SEPTEMBER 2025,1.8,2.8,81,4.5,90,19.0,14.0,TOR EAST HLTH NTWRK MICHAEL GARRON HOSP,-79.3261147,43.6895863,825 Coxwell Avenue,auto,85.5
+Glengarry Memorial Hospital,SEPTEMBER 2025,1.8,2.5,81,3.2,95,7.4,65.0,GLENGARRY MEMORIAL HOSPITAL,-74.6453063,45.3069911,20260 County Road 43,auto,100.0
+Stevenson Memorial Hospital Alliston,SEPTEMBER 2025,1.8,2.7,83,3.8,95,13.9,34.0,STEVENSON MEMORIAL HOSPITAL ALLISTON,-79.8759934,44.1552646,200 Fletcher Crescent,auto,95.0
+Muskoka Algonquin Healthcare-Bracebridge,SEPTEMBER 2025,1.8,2.7,81,4.2,93,11.5,50.0,MUSKOKA ALGONQUIN HEALTHCARE BRACEBRIDGE,-79.3140532,45.0463248,75 Ann Street,auto,100.0
+Royal Victoria Regional Health Centre,SEPTEMBER 2025,1.9,2.5,82,4.4,90,14.7,28.0,ROYAL VICTORIA REGIONAL HEALTH CENTRE,-79.6620378,44.4161743,201 Georgian Dr,auto,100.0
+Groves Memorial Community Hospital,SEPTEMBER 2025,1.9,2.9,78,4.4,91,8.6,58.0,GROVES MEMORIAL COMMUNITY HOSPITAL,-80.3942428,43.6961873,131 Frederick Campbell Street,auto,100.0
+Huron Perth Healthcare Alliance-Stratford,SEPTEMBER 2025,1.9,2.9,77,3.9,94,7.8,67.0,HURON PERTH HEALTHCARE ALLIANCE STRATFORD,-80.9954308,43.3687132,46 General Hospital Drive,auto,100.0
+Collingwood General And Marine Hospital,SEPTEMBER 2025,1.9,3.2,68,4.0,94,13.1,44.0,COLLINGWOOD GENERAL AND MARINE HOSPITAL,-80.2027382,44.4980925,459 Hume Street,auto,100.0
+Muskoka Algonquin Healthcare-Huntsville,SEPTEMBER 2025,1.9,2.9,82,4.1,94,15.4,31.0,MUSKOKA ALGONQUIN HEALTHCARE HUNTSVILLE,-79.204047,45.3389341,100 Frank Miller Drive,auto,100.0
+Campbellford Memorial Hospital,SEPTEMBER 2025,2.0,3.2,72,4.4,91,20.8,17.0,CAMPBELLFORD MEMORIAL HOSPITAL,-77.7895592,44.3122724,146 Oliver Road,auto,100.0
+Erie Shores Healthcare,SEPTEMBER 2025,2.0,2.7,77,4.6,89,10.5,46.0,ERIE SHORES HEALTHCARE,-82.6149112,42.049341,194 Talbot St. West,auto,100.0
+West Nipissing General Hospital,SEPTEMBER 2025,2.0,3.3,68,3.9,93,8.9,52.0,WEST NIPISSING GENERAL HOSPITAL,-79.9157058,46.3723876,725 Coursol Road,auto,100.0
+Chatham-Kent Health Alliance-Wallaceburg,SEPTEMBER 2025,2.0,2.8,81,3.4,97,9.4,71.0,CHATHAM KENT HEALTH ALLIANCE WALLACEBURG,-82.1940095,42.4058679,80 Grand Avenue West,auto,87.21311475409836
+Oak Valley Health-Uxbridge Hospital,SEPTEMBER 2025,2.0,3.2,72,4.2,94,10.2,48.0,OAK VALLEY HEALTH UXBRIDGE HOSPITAL,-79.1274882,44.1019503,4 Campbell Drive,auto,95.0
+Hamilton Health Sciences Corp-West Lincoln,SEPTEMBER 2025,2.0,3.4,70,5.1,89,25.9,13.0,HAMILTON HEALTH SCIENCES CORP WEST LINCOLN,-79.5421343,43.1877119,169 Main Street East,auto,95.0
+Lennox and Addington County Gen Hospital,SEPTEMBER 2025,2.1,3.5,66,4.4,93,22.7,15.0,LENNOX AND ADDINGTON COUNTY GEN HOSPITAL,-76.9658867,44.2403605,8 Richmond Park Dr,auto,95.23809523809524
+Orillia Soldiers' Memorial Hospital,SEPTEMBER 2025,2.1,3.3,68,4.2,95,16.0,23.0,ORILLIA SOLDIERS MEMORIAL HOSPITAL,-79.4248469,44.6046205,170 Colborne Street West,auto,100.0
+Lakeridge Health-Ajax Site,SEPTEMBER 2025,2.1,3.8,62,4.6,92,17.6,20.0,LAKERIDGE HEALTH AJAX SITE,-79.01584,43.8378703,580 Harwood Avenue South,auto,95.0
+Norfolk General Hospital,SEPTEMBER 2025,2.1,3.7,63,4.6,91,17.5,27.0,NORFOLK GENERAL HOSPITAL,-80.3140808,42.8347696,365 West Street,auto,100.0
+Halton Healthcare Services Corp-Milton,SEPTEMBER 2025,2.1,3.2,74,4.3,94,12.5,40.0,HALTON HEALTHCARE SERVICES CORP MILTON,-79.8698078,43.4978915,7030 Derry Road,auto,95.0
+Lake-of-the-Woods District Hospital,SEPTEMBER 2025,2.1,3.6,64,4.5,90,10.3,50.0,LAKE OF THE WOODS DISTRICT HOSPITAL,-94.499383,49.7668627,21 Sylvan Street,auto,100.0
+Georgian Bay General Hosp-Midland Site,SEPTEMBER 2025,2.1,3.5,68,4.7,92,13.5,39.0,GEORGIAN BAY GENERAL HOSP MIDLAND SITE,-79.9116377,44.7418688,1112 St Andrew's Dr,auto,88.66666666666666
+Halton Healthcare Services Corp-Georgetown,SEPTEMBER 2025,2.2,3.1,72,4.0,97,16.8,34.0,HALTON HEALTHCARE SERVICES CORP GEORGETOWN,-79.9322145,43.6442232,1 Princess Anne Dr.,auto,95.0
+Humber River Health-Wilson Site,SEPTEMBER 2025,2.2,3.6,66,4.8,90,10.9,27.0,HUMBER RIVER HEALTH WILSON SITE,-79.4904078,43.724768,1235 Wilson Avenue,auto,95.0
+University Health Network-General Site,SEPTEMBER 2025,2.3,4.5,52,6.8,76,17.3,17.0,UNIVERSITY HEALTH NETWORK GENERAL SITE,-79.387061,43.6595697,200 Elizabeth Street,manual,
+Health Sciences North-Laurentian,SEPTEMBER 2025,2.3,3.8,63,5.1,88,17.3,30.0,HEALTH SCIENCES NORTH LAURENTIAN,-80.9960696,46.4694207,41 Ramsey Lake Road,manual,
+Quinte Health - Trenton,SEPTEMBER 2025,2.3,3.7,63,5.0,88,18.6,37.0,QUINTE HEALTH TRENTON,-77.5878346,44.0989877,242 King St,auto,100.0
+Ross Memorial Hospital,SEPTEMBER 2025,2.3,3.4,68,4.2,94,17.1,26.0,ROSS MEMORIAL HOSPITAL,-78.751566,44.3522897,10 Angeline Street North,auto,100.0
+St. Mary's General Hospital,SEPTEMBER 2025,2.3,3.3,71,4.4,93,12.4,43.0,ST MARY S GENERAL HOSPITAL,-80.5004443,43.4381679,911 Queen's Boulevard,auto,100.0
+Temiskaming Hospital,SEPTEMBER 2025,2.3,3.6,64,4.6,89,6.1,78.0,TEMISKAMING HOSPITAL,-79.6956193,47.4943251,421 Shepherdson Road,auto,100.0
+Perth & Smiths Falls Dist-Smiths Falls Site,SEPTEMBER 2025,2.3,3.6,64,4.6,89,6.1,78.0,PERTH SMITHS FALLS DIST SMITHS FALLS SITE,-76.0253205,44.9065675,60 Cornelia Street West,manual,
+Brightshores Health System-Owen Sound,SEPTEMBER 2025,2.4,3.1,72,4.5,90,17.7,41.0,BRIGHTSHORES HEALTH SYSTEM OWEN SOUND,-80.912378,44.5674432,1800 8th Street East,manual,
+Hamilton Health Sciences Corp-General,SEPTEMBER 2025,2.4,4.8,47,6.6,73,18.7,19.0,HAMILTON HEALTH SCIENCES CORP GENERAL,-79.85433,43.261289,237 Barton St. East,auto,95.0
+Chatham-Kent Health Alliance-Chatham,SEPTEMBER 2025,2.4,3.2,70,4.6,88,12.6,40.0,CHATHAM KENT HEALTH ALLIANCE CHATHAM,-82.3668916,42.5973703,325 Margaret Avenue,auto,95.0
+London Hlth Sciences Ctr-Victoria Hosp,SEPTEMBER 2025,2.4,3.6,67,5.0,84,12.5,38.0,LONDON HLTH SCIENCES CTR VICTORIA HOSP,-81.2255511,42.9583272,800 Commissioners Road East,auto,86.8421052631579
+Hawkesbury And District General Hospital,SEPTEMBER 2025,2.4,4.6,51,6.5,74,17.7,21.0,HAWKESBURY AND DISTRICT GENERAL HOSPITAL,-74.6079169,45.5987468,"1111, rue Ghislain",auto,100.0
+Hamilton Health Sciences Corp-Juravinski,SEPTEMBER 2025,2.4,4.6,51,6.4,77,22.7,13.0,HAMILTON HEALTH SCIENCES CORP JURAVINSKI,-79.8453502,43.2392986,711 Concession St.,auto,95.0
+Niagara Health System-Welland County,SEPTEMBER 2025,2.5,4.1,55,5.7,84,45.4,9.0,NIAGARA HEALTH SYSTEM WELLAND COUNTY,-79.249118,42.9807449,65 Third Street,auto,86.48648648648648
+Unity Health Toronto-St. Michael's,SEPTEMBER 2025,2.5,3.7,63,5.7,81,21.5,19.0,UNITY HEALTH TORONTO ST MICHAEL S,-79.3773005,43.6537089,30 Bond Street,auto,100.0
+Guelph General Hospital,SEPTEMBER 2025,2.5,3.3,70,4.3,92,14.4,33.0,GUELPH GENERAL HOSPITAL,-80.2538108,43.5558011,115 Delhi Street,auto,100.0
+Northumberland Hills Hospital,SEPTEMBER 2025,2.5,3.0,71,4.5,93,15.3,26.0,NORTHUMBERLAND HILLS HOSPITAL,-78.1972016,43.976727,1000 DePalma Drive,auto,100.0
+Pembroke Regional Hospital Inc.,SEPTEMBER 2025,2.6,3.9,66,5.8,82,12.6,38.0,PEMBROKE REGIONAL HOSPITAL INC,-77.1080419,45.8138898,705 MacKay St,auto,95.0
+Halton Healthcare Services Corp-Oakville,SEPTEMBER 2025,2.6,3.7,64,4.9,89,17.3,30.0,HALTON HEALTHCARE SERVICES CORP OAKVILLE,-79.7665903,43.4489087,3001 Hospital Gate,auto,88.66666666666666
+West Parry Sound Health Centre,SEPTEMBER 2025,2.6,3.8,57,5.1,90,12.8,42.0,WEST PARRY SOUND HEALTH CENTRE,-80.0191169,45.3421613,6 Albert St,auto,100.0
+Trillium Health Partners-Credit Valley,SEPTEMBER 2025,2.6,3.8,65,5.6,81,32.9,12.0,TRILLIUM HEALTH PARTNERS CREDIT VALLEY,-79.7047351,43.5606345,2200 Eglinton Avenue West,auto,100.0
+Niagara Health System-Greater Niagara,SEPTEMBER 2025,2.7,4.6,46,5.5,85,37.0,14.0,NIAGARA HEALTH SYSTEM GREATER NIAGARA,-79.0917911,43.0935696,5546 Portage Road,auto,100.0
+Ottawa Hospital (The)-Civic Site,SEPTEMBER 2025,2.7,4.9,55,7.7,58,20.8,21.0,OTTAWA HOSPITAL THE CIVIC SITE,-75.7208471,45.3918764,1053 Carling Ave.,auto,86.36363636363636
+Grand River Hospital Corp-Waterloo Site,SEPTEMBER 2025,2.8,3.6,68,5.1,86,16.3,39.0,GRAND RIVER HOSPITAL CORP WATERLOO SITE,-80.5115561,43.4571256,835 King St. West,manual,
+Cornwall Community Hospital,SEPTEMBER 2025,2.8,4.6,52,5.2,83,7.3,67.0,CORNWALL COMMUNITY HOSPITAL,-74.7186113,45.0290125,840 McConnell Avenue,auto,100.0
+Kingston Health Sciences Centre-Kingston General,SEPTEMBER 2025,2.9,5.7,33,6.9,72,16.1,26.0,KINGSTON HEALTH SCIENCES CENTRE KINGSTON GENERAL,-76.4928644,44.2245348,76 Stuart Street,auto,100.0
+North Bay Regional Health Centre,SEPTEMBER 2025,3.0,4.6,53,5.3,83,10.9,54.0,NORTH BAY REGIONAL HEALTH CENTRE,-79.4937436,46.3356353,50 College Drive,auto,100.0
+Brockville General Hospital,SEPTEMBER 2025,3.1,4.8,47,5.8,81,16.0,24.0,BROCKVILLE GENERAL HOSPITAL,-75.6820896,44.5978527,75 Charles Street,auto,100.0
+Brant Community Healthcare Sys-Brantford,SEPTEMBER 2025,3.1,4.0,61,5.5,82,18.0,23.0,BRANT COMMUNITY HEALTHCARE SYS BRANTFORD,-80.2758032,43.1526013,200 Terrace Hill Street,auto,89.99999999999999
+Windsor Regional Hospital - Ouellette Campus,SEPTEMBER 2025,3.1,4.9,48,6.3,75,15.7,26.0,WINDSOR REGIONAL HOSPITAL OUELLETTE CAMPUS,-83.0326985,42.3077897,1030 Ouellette Avenue,auto,100.0
+Peterborough Regional Health Centre,SEPTEMBER 2025,3.2,4.1,56,5.2,85,25.5,20.0,PETERBOROUGH REGIONAL HEALTH CENTRE,-78.3459236,44.3008947,1 Hospital Drive,auto,100.0
+Sault Area Hospital-Sault Ste. Marie,SEPTEMBER 2025,3.3,4.6,52,6.3,76,26.4,21.0,SAULT AREA HOSPITAL SAULT STE MARIE,-84.3193399,46.5480473,750 Great Northern Road,manual,
+Winchester District Memorial Hospital,SEPTEMBER 2025,3.3,4.6,49,5.6,81,10.2,47.0,WINCHESTER DISTRICT MEMORIAL HOSPITAL,-75.3523926,45.0884434,566 Louise Street,auto,100.0
+Niagara Health System-St Catharines Gen,SEPTEMBER 2025,3.4,3.4,71,6.0,76,22.9,14.0,NIAGARA HEALTH SYSTEM ST CATHARINES GEN,-79.2772566,43.155225,1200 Fourth Avenue,auto,95.0
+Ottawa Hospital (The)-General Site,SEPTEMBER 2025,3.4,5.3,45,9.0,45,23.7,15.0,OTTAWA HOSPITAL THE GENERAL SITE,-75.6473696,45.3994092,501 Smyth Rd,auto,86.94915254237289
+Sunnybrook Health Sciences Centre,SEPTEMBER 2025,3.4,4.7,50,7.3,66,21.9,20.0,SUNNYBROOK HEALTH SCIENCES CENTRE,-79.4047514,43.7897344,285 Cummer Avenue,auto,95.0
+Queensway-Carleton Hospital,SEPTEMBER 2025,3.5,5.7,38,6.5,70,20.6,14.0,QUEENSWAY CARLETON HOSPITAL,-75.8047465,45.333886,3045 Baseline Road,auto,100.0
+Children's Hospital Of Eastern Ontario,SEPTEMBER 2025,3.5,5.5,40,5.6,82,13.5,32.0,CHILDREN S HOSPITAL OF EASTERN ONTARIO,-75.6527545,45.3990371,401 Smyth Road,auto,100.0
+Cambridge Memorial Hospital,SEPTEMBER 2025,3.7,4.8,47,6.1,75,29.7,20.0,CAMBRIDGE MEMORIAL HOSPITAL,-80.3280023,43.3787964,700 Coronation Blvd,auto,100.0
+London Hlth Sciences Ctr-University Hosp,SEPTEMBER 2025,3.8,6.1,37,6.7,69,16.4,23.0,LONDON HLTH SCIENCES CTR UNIVERSITY HOSP,-81.275328,43.0153339,339 Windermere Road,auto,87.5
+Windsor Regional Hospital-Metropolitan Campus,SEPTEMBER 2025,3.9,5.8,41,6.8,67,18.5,18.0,WINDSOR REGIONAL HOSPITAL METROPOLITAN CAMPUS,-82.9965746,42.300936,1995 Lens Ave,auto,95.0
+Quinte Health - Belleville,SEPTEMBER 2025,4.0,5.8,33,7.3,65,16.6,30.0,QUINTE HEALTH BELLEVILLE,-77.364903,44.1636952,265 Dundas Street East,auto,100.0
