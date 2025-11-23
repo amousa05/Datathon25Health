@@ -5,16 +5,7 @@ from numpy.random import default_rng as rng
 
 # Generate sample data with additional values to display
 rng_gen = rng(0)
-df = pd.DataFrame(
-    rng_gen.standard_normal((1000, 2)) / [50, 50] + [37.76, -122.4],
-    columns=["lat", "lon"],
-)
-
-# Add some extra values that will be shown on hover/click
-df['location_id'] = range(1, len(df) + 1)
-df['population'] = rng_gen.integers(100, 10000, size=len(df))
-df['hospital_rating'] = rng_gen.uniform(1, 5, size=len(df)).round(1)
-df['facility_type'] = rng_gen.choice(['Hospital', 'Clinic', 'Urgent Care', 'Pharmacy'], size=len(df))
+df = pd.read_csv('mockdata.csv')
 
 st.title("Interactive Health Facilities Map")
 
@@ -22,17 +13,17 @@ st.title("Interactive Health Facilities Map")
 fig = px.scatter_mapbox(
     df,
     lat="lat",
-    lon="lon",
-    hover_name="facility_type",
+    lon="long",
+    hover_name="name",
     hover_data={
-        "location_id": True,
-        "population": True,
-        "hospital_rating": True,
-        "lat": ":.4f",
-        "lon": ":.4f"
+        "general_time": True,
+        "high_time": True,
+        "low_time": True,
+        "admitted_time": True,
+        "lat": False,
+        "long": False
     },
-    color="facility_type",
-    size="population",
+    color_discrete_sequence=["blue"],
     size_max=15,
     zoom=10,
     height=600,
@@ -56,21 +47,21 @@ if clicked_data and 'selection' in clicked_data and clicked_data['selection']['p
     point_index = clicked_point['point_index']
     selected_row = df.iloc[point_index]
     
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3, col4, col5 = st.columns(5)
     
     with col1:
-        st.metric("Location ID", selected_row['location_id'])
+        st.metric("Name", selected_row['name'])
     with col2:
-        st.metric("Population Served", f"{selected_row['population']:,}")
+        st.metric("General Waiting Time", f"{selected_row['general_time']}")
     with col3:
-        st.metric("Rating", f"{selected_row['hospital_rating']}/5")
+        st.metric("High Urgent Waiting Time", f"{selected_row['high_time']}")
     with col4:
-        st.metric("Facility Type", selected_row['facility_type'])
-    
-    st.write(f"**Coordinates:** {selected_row['lat']:.4f}, {selected_row['lon']:.4f}")
+        st.metric("Low Urgent Waiting Time", f"{selected_row['low_time']}")
+    with col5:
+        st.metric("Waiting Time for Admitted Patients", f"{selected_row['admitted_time']}")
     
     # Show additional details in an info box
-    st.info(f"You selected {selected_row['facility_type']} at location {selected_row['location_id']} with a rating of {selected_row['hospital_rating']}/5")
+    st.info(f"You selected {selected_row['name']}")
 else:
     st.info("👆 Click on any point on the map to see detailed information about that location.")
 
