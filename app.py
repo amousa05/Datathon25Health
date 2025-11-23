@@ -1,13 +1,15 @@
 import pandas as pd
-import streamlit as st
-import plotly.express as px
 from numpy.random import default_rng as rng
 import matplotlib.pyplot as plt
 from math import radians, sin, cos, sqrt, atan2
 
+import streamlit as st
+import plotly.express as px
+
 # Preprocessing
 from sklearn.preprocessing import MinMaxScaler
 
+# KNN Neighbors
 from sklearn.neighbors import NearestNeighbors
 
 # Generate sample data with additional values to display
@@ -86,7 +88,7 @@ fig = px.scatter_mapbox(
     color_discrete_map={"blue": "blue", "green": "green"},
     size_max=15,
     zoom=4,
-    height=600,
+    height=800,
     title="Click on any point to see detailed information"
 )
 
